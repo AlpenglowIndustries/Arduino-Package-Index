@@ -1,0 +1,47 @@
+{
+  "packages": [
+    {
+      "name": "alpenglow",
+      "maintainer": "Alpenglow Industries",
+      "email": "info@alpenglowindustries.com",
+      "websiteURL": "https://www.alpenglowindustries.com",
+      "help": {
+        "online": "https://www.alpenglowindustries.com"
+      },
+      "platforms": [
+        {
+          "name": "Alpenglow AVR Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "github",
+          "archiveFileName": "AlpIndAVRBoards-1.0.0.zip",
+          "checksum": "SHA-",
+          "size": "",
+          "boards": [
+            {
+              "name": "Alpenglow FUnicorn"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "5.4.0-atmel3.6.1-arduino2"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino14"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
