@@ -17,7 +17,7 @@
           "url": "https://alpenglowindustries.github.io/Arduino-Package-Index/package_alpenglow_index.json",
           "archiveFileName": "AlpIndAVRBoards-1.0.0.zip",
           "checksum": "SHA-256:f922f1b36cde9687f4341f6f56bf3ace5f8fe167c96b566dce639033b8a1489e",
-          "size": "70656",
+          "size": "70205",
           "boards": [
             {
               "name": "Alpenglow FUnicorn"
